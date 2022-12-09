@@ -1,0 +1,52 @@
+*{    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+
+
+h1, footer{
+    color: whitesmoke;
+    background-color: red;
+    text-align: center;
+    display: block;
+}
+
+body{
+    background-color:grey;
+    color: white;
+
+}
+
+img {
+    display: block;
+    
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    font-size:89%;
+    float: left;
+
+}
+
+li{
+
+    display: inline;
+    
+}
+
+li a{
+    padding: 20px;
+    background-color: #dddddd;
+
+}
+
+p {
+
+    font-size: 20px;
+}
+
+#Landing {
+ background-color: aqua;
+}
